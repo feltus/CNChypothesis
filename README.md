@@ -2,10 +2,15 @@
 
 ##  Lab Overview
 We don’t know everything about the human genome.  If we did, there would be no disease and all bioinformatics professors would be genetically engineered to be more interesting!    For example, find chr3:137,329,393-137,330,121 (hg38 build) in the human genome.  Press the “Hide All” button to turn off all tracks.  Turn “Conservation” tracks on to “Full view”.  Note how this DNA segment is highly conserved among mammals.  Take a look at the armadillo genome conservation with human.  Here is the taxonomy lineage for each genome taken from the NCBI Taxonomy Browser for these two species:
+
 Armadillo
+========
 cellular organisms; Eukaryota; Opisthokonta; Metazoa; Eumetazoa; Bilateria; Deuterostomia; Chordata; Craniata; Vertebrata; Gnathostomata; Teleostomi; Euteleostomi; Sarcopterygii; Dipnotetrapodomorpha; Tetrapoda; Amniota; Mammalia; Theria; Eutheria; Xenarthra; Cingulata; Dasypodidae; Dasypus; Dasypus novemcinctus
+
 Human
+========
 cellular organisms; Eukaryota; Opisthokonta; Metazoa; Eumetazoa; Bilateria; Deuterostomia; Chordata; Craniata; Vertebrata; Gnathostomata; Teleostomi; Euteleostomi; Sarcopterygii; Dipnotetrapodomorpha; Tetrapoda; Amniota; Mammalia; Theria; Eutheria; Boreoeutheria; Euarchontoglires; Primates; Haplorrhini; Simiiformes; Catarrhini; Hominoidea; Hominidae; Homininae; Homo sapiens
+
 So, there was a common ancestor to us and armadillos that could be classified as a Eutherian with a genome that contained a similar DNA sequence now found in the Xenarthra and Boreoeutheria lineages (left).  From what I can tell, it looks like this ancestor lived ~60 million years ago before evolving into armadillos and humans.  In fact, based on fossil evidence, your and an armadillo’s great-great-great-great-great-great+(X-great) grandmaw might have looked like below.  (MA O'Leary et al.  The Placental Mammal Ancestor and the Post–K-Pg Radiation of Placentals. 2013 Vol. 339 no. 6120 pp. 662-667).  
 
 ##  Lab Objectives:
