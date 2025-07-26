@@ -1,4 +1,5 @@
 # Computational Practice: Hypothesizing function in conserved non-coding (CNC) genomic sequences
+
 ##  Lab Overview
 We don’t know everything about the human genome.  If we did, there would be no disease and all bioinformatics professors would be genetically engineered to be more interesting!    For example, find chr3:137,329,393-137,330,121 (hg38 build) in the human genome.  Press the “Hide All” button to turn off all tracks.  Turn “Conservation” tracks on to “Full view”.  Note how this DNA segment is highly conserved among mammals.  Take a look at the armadillo genome conservation with human.  Here is the taxonomy lineage for each genome taken from the NCBI Taxonomy Browser for these two species:
 Armadillo
