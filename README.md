@@ -13,8 +13,9 @@ cellular organisms; Eukaryota; Opisthokonta; Metazoa; Eumetazoa; Bilateria; Deut
 
 So, there was a common ancestor to us and armadillos that could be classified as a Eutherian with a genome that contained a similar DNA sequence now found in the Xenarthra and Boreoeutheria lineages (left).  From what I can tell, it looks like this ancestor lived ~60 million years ago before evolving into armadillos and humans.  In fact, based on fossil evidence, your and an armadillo’s great-great-great-great-great-great+(X-great) grandmaw might have looked like below.  (MA O'Leary et al.  The Placental Mammal Ancestor and the Post–K-Pg Radiation of Placentals. 2013 Vol. 339 no. 6120 pp. 662-667).  
 
-[<img src="ancestor.jpg">]
-[<img src="phylogeny.jpg">]
+![<img src="ancestor.jpg">]
+![<img src="phylogeny.jpg">]
+
 ##  Lab Objectives:
 In this lab you will find a conserved piece of DNA in the human reference genome and hypothesize on its function.
 
