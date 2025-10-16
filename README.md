@@ -17,7 +17,7 @@ So, there was a common ancestor to us and armadillos that could be classified as
 ![<img src="phylogeny.jpg">]
 
 ##  Lab Objectives:
-In this lab you will find a conserved piece of DNA in the human reference genome and hypothesize on its function.
+In this lab you will use the conserved piece of DNA in the human reference genome at chr3:137,329,393-137,330,121 and hypothesize on its function.
 
 * Find a piece of conserved DNA
 * Search genome browser tracks that could explain the function of this conserved piece of DNA
